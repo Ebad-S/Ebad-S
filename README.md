@@ -1,38 +1,42 @@
 <div align="center">
-        <img src="./logo.png" alt="Personal Logo" style="width: 2rem;">
+        <img src="./logo.png" alt="Personal Logo" style="width: 10rem;">
 </div>
 
 <p align="center">Everything Web, Blockchain & Web3, FinTech</p>
 <br>
-<h2>About Me:</h2>
-    <ul>
-        <li>🔭 I'm currently working on <strong>AI Trading Bot</strong></li>
-        <li>🌱 I'm currently studying <strong>Graduate Certificate at Queensland University of Technology</strong></li>
-        <li>👯 I'm looking to collaborate on <strong>anything you need from below tech stacks</strong></li>
-        <li>📫 Message me on <a href="https://linkedin.com/in/ebad-salehi" style="justify-content: center; align-items: center;">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="justify-content: center; align-items: center;" alt="LinkedIn"></a>
-        </li>
-    </ul>
-    
+
+<h2 align="center">About Me</h2>
+<div align="center">
+  <p>Currently pursuing a <strong>Graduate Certificate in Web Technologies</strong> at <strong>Queensland University of Technology (QUT)</strong></p>
+  <p>I am dedicated to developing an advanced <strong>AI Trading Bot</strong>.</p>
+  <p>If you're interested in collaborating on <strong>any of the technologies listed below</strong>, feel free to reach out:</p>
+  <p>
+    <a href="https://linkedin.com/in/ebad-salehi">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+</div>
+
+       
 <br>
-<h2>💻 Tech Stack:</h2>
+<h2 align="center">Tech Stack:</h2>
     
-<h3>Web Development:</h3>
-<div class="tech-stack">
+<h3 align="center">Web Development:</h3>
+<div align="center">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP">
 </div>
 
-<h3>Blockchain:</h3>
-<div class="tech-stack">
+<h3 align="center">Blockchain:</h3>
+<div align="center">
         <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white" alt="Solidity">
         <img src="https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white" alt="Web3.js">
   </div>
 
-<h3>AI & Machine Learning:</h3>
-<div class="tech-stack">
+<h3 align="center">AI & Machine Learning:</h3>
+<div align="center">
         <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
         <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" alt="Keras">
         <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib">
@@ -45,8 +49,8 @@
         <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow">
 </div>
 
-<h3>Frameworks, Platforms & Libraries:</h3>
-<div class="tech-stack">
+<h3 align="center">Frameworks, Platforms & Libraries:</h3>
+<div align="center">
         <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django">
         <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js">
         <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI">
@@ -63,16 +67,16 @@
         <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
 </div>
 
-<h3>Databases / ORM:</h3>
-<div class="tech-stack">
+<h3 align="center">Databases / ORM:</h3>
+<div align="center">
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" alt="MicrosoftSQLServer">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
         <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="Postgres">
 </div>
 
-<h3>Other:</h3>
-<div class="tech-stack">
+<h3 align="center">Other:</h3>
+<div align="center">
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
         <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" alt="Firebase">
         <img src="https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white" alt="GithubPages">
@@ -88,7 +92,7 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
 </div>
 <br>
-<h2> GitHub Stats:</h2>
+<h2 align="center"> GitHub Stats:</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebad-S&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     <!-- <br>
@@ -97,7 +101,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Ebad-S&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"> -->
 </div>
 <br>
-<h2> Top Contributed Repo</h2>
+<h2 align="center"> Top Contributed Repo</h2>
 <div align="center">
         <img src="https://github-contributor-stats.vercel.app/api?username=Ebad-S&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </div>

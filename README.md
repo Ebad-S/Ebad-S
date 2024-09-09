@@ -1,5 +1,5 @@
 <div align="center">
-        <img src="./logo.png" alt="Personal Logo" style="width: 10rem;">
+        <img src="./logo_9.png" alt="Personal Logo" style="width: 10rem;">
 </div>
 
 <p align="center">Everything Web, Blockchain & Web3, FinTech</p>

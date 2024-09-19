@@ -14,6 +14,9 @@
     <a href="https://linkedin.com/in/ebad-salehi">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
+    <a href="https://t.me/Quantum3bit">
+      <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white" alt="Telegram">
+    </a>
   </p>
 </div>
 

@@ -7,7 +7,8 @@
 
 <h2 align="center">About Me</h2>
 <div align="center">
-  <p>Honored to graduate from <strong>Queensland University of Technology (QUT)</strong> with a <strong>Graduate Certificate in Web Technologies</strong>. Currently building <em>Serenity WebCrafts</em>, empowering the online presence of small businesses and independent professionals using AI technologies, digital strategies, and responsive, SEO‑friendly websites.</p>
+  <p>Honored to graduate from <strong>Queensland University of Technology (QUT)</strong> with a <strong>Graduate Certificate in Web Technologies</strong>. </p>
+  <p> Currently building <em>Serenity WebCrafts</em>, empowering the online presence of small businesses and independent professionals using AI technologies, digital strategies, and responsive, SEO‑friendly websites.</p>
   <p>If you're interested in collaborating on <strong>any of the technologies listed below</strong>, feel free to reach out:</p>
   <p>
     <a href="https://linkedin.com/in/ebad-salehi">
